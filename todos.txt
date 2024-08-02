@@ -1,0 +1,12 @@
+1) Cross site origin Request (properly implement this) //
+3) Think how Redux will be implemented//
+4) Api authorization//
+5) User Authorization//
+
+
+api rate limit
+proper deleting of everything, if you deleted Post everything related to it (its like, comment, reply) everything should be deleted
+if liked show the filled like icon
+
+6) Admin Panel
+7) Caching and others
